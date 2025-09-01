@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```
 ## To Run 
 ```bash
-streamlit run image_enhancer.py
+python -m streamlit run image_enhancer.py
 ```
 
 ### Author
