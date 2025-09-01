@@ -26,4 +26,4 @@ streamlit run image_enhancer.py
 ### Author
 
 Developed with ❤️ using Streamlit, Pillow, and OpenCV
-Your Name: prateeksatyal
+dev= prateeksatyal
