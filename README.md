@@ -14,7 +14,7 @@ A Python + Streamlit app to enhance images: denoise, sharpen, adjust contrast/br
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/image-enhancer.git
+git clone https://github.com/prateeksatyal/image-enhancer/
 cd image-enhancer
 pip install -r requirements.txt
 ```
